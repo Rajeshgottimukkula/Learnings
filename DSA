@@ -1,29 +1,22 @@
-2/432 - What is a data structure 
 
-1.❓ What is it?
+1. ❓ **What is it?**
+   - Data structures are methods of **organizing data on a computer**, crucial for **efficient processing in software applications**.
 
-Data structures are methods of organizing data on a computer, crucial for efficient processing in software applications.
+2. 🤔 **Why it is used?**
+   - Data structures are essential for improving the **efficiency and performance** of software applications by **organizing and structuring data appropriately**.
 
-2.🤔 Why it is used?
+3. 💡 **How it is used?**
+   - By selecting and implementing **appropriate data structures**, software developers enhance the **efficiency of processing data** in applications.
 
-Data structures are essential for improving the efficiency and performance of software applications by organizing and structuring data appropriately.
+4. 🚀 **Example (Technical)**
+   - Analogous to how books are organized on a table, data structures organize information for **easier retrieval and manipulation during program execution**.
 
-3.💡 How it is used?
+5. 🌐 **Example (Real World)**
+   - Real-world examples like organizing people in a queue for concert tickets or arranging books like a stack highlight the practical applications of **data structures**.
 
-By selecting and implementing appropriate data structures, software developers enhance the efficiency of processing data in applications.
+6. 🧠 **Mnemonic**
+   - Consider using a mnemonic like "**ORG**" to remember the key aspects: **Organize, Retrieve, Group** - reflecting the purpose of data structures.
 
-4.🚀 Example (Technical)
+7. 🖼️ **Visual Aids**
+   - Visual aids, such as diagrams illustrating the organization of books on a table, can enhance understanding of **data structures in action**.
 
-Analogous to how books are organized on a table, data structures organize information for easier retrieval and manipulation during program execution.
-
-5.🌐 Example (Real World)
-
-Real-world examples like organizing people in a queue for concert tickets or arranging books like a stack highlight the practical applications of data structures.
-
-6.🧠 Mnemonic
-
-Consider using a mnemonic like “ORG” to remember the key aspects: Organize, Retrieve, Group - reflecting the purpose of data structures.
-
-7.🖼️ Visual Aids
-
-Visual aids, such as diagrams illustrating the organization of books on a table, can enhance understanding of data structures in action.
