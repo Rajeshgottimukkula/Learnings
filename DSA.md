@@ -1,7 +1,7 @@
 DSA
 
 
-# 2/432
+#2/432 What is a datastructure
 1. ❓ **What is it?**
    - Data structures are methods of **organizing data on a computer**, crucial for **efficient processing in software applications**.
 
