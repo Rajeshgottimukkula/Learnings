@@ -21,4 +21,5 @@
 7. 🖼️ **Visual Aids**
    - Visual aids, such as diagrams illustrating the organization of books on a table, can enhance understanding of **data structures in action**.
 
-![image](https://github.com/Rajeshgottimukkula/Learnings/assets/46450473/9311f41c-0208-4f0b-ac0a-47426930dfa6)
+<img width="784" alt="image" src="https://github.com/Rajeshgottimukkula/Learnings/assets/46450473/415e340d-b78a-4c58-9fda-009fca3af04d">
+
