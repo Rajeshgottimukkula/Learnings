@@ -176,7 +176,7 @@ Explore the world of algorithms: Simple Recursive, Divide and Conquer, Dynamic P
 
 
 
-## 10. What is Big O?:
+## 9. What is Big O?:
 
 ### Understanding and Refining:
 Understanding Big O Notation: It's a language and metric for describing algorithm efficiency. Without it, developing efficient algorithms is challenging. Big O helps gauge how the runtime of an algorithm grows concerning input size.
