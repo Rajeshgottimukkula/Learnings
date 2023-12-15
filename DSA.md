@@ -144,10 +144,7 @@ Understand the basics: Primitive (built-in) and Non-primitive (user-defined) dat
 
 
 
-
-6- Types of Algorithms
-
-### 1. **Your Understanding:**
+### 6. **Types of Algorithms:**
 
 #### Understanding and Refining:
 - Algorithms come in various types based on the problems they solve or the approach they take.
