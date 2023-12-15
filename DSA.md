@@ -173,3 +173,32 @@ Understand the basics: Primitive (built-in) and Non-primitive (user-defined) dat
 #AlgorithmsUnveiled 🤖
 Explore the world of algorithms: Simple Recursive, Divide and Conquer, Dynamic Programming, Greedy, Brute Force, and Randomized. Imagine greedy algorithms as picking the quickest grocery store line at each step. 🛒 #Computing #Algorithms101
 ```
+
+
+
+## 10. What is Big O?:
+
+### Understanding and Refining:
+Understanding Big O Notation: It's a language and metric for describing algorithm efficiency. Without it, developing efficient algorithms is challenging. Big O helps gauge how the runtime of an algorithm grows concerning input size.
+
+### What is it?
+Big O Notation is a way to express the efficiency of algorithms. It helps quantify how the runtime or space requirements of an algorithm scale with input size.
+
+### Why it is used?
+Used to evaluate and compare algorithms based on their efficiency. It provides insights into how an algorithm performs as the size of the input increases, aiding in making informed choices during development.
+
+### How it is used?
+Big O is used to analyze algorithms, focusing on their time and space complexities. It allows developers to assess and choose algorithms that provide optimal performance for a given task.
+
+### Example (Technical):
+Comparing two code snippets (Code1 and Code2) using Big O to determine which is more efficient in terms of time complexity. Time complexity is measured by the number of operations rather than actual time.
+
+### Example (Real World):
+Analogizing file transfer methods to a friend: Electronic transfer vs. physical delivery. Electronic transfer's time complexity increases linearly with file size, while physical delivery maintains constant time, demonstrating the essence of time complexity.
+
+### Mnemonic:
+Think of Big O as the efficiency metric for algorithms – helping you choose the fastest route for your code. 🚀
+
+## 2. Twitter-Friendly Version:
+
+🚀 Mastering Big O Notation! It's the language of algorithm efficiency – crucial for fast applications. ⏱️ Understand how your code scales with input size. Choose algorithms wisely! #BigO #AlgorithmEfficiency #CodingTips
