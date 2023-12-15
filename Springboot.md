@@ -300,3 +300,34 @@ Consider managing embedded servers as crafting a well-organized workspace. The "
 ## 2. Twitter-Friendly Version:
 
 🚀 Managing embedded servers in Spring Boot? 🛠️ Pay attention to port config and dependency conflicts. 🔄 IntelliJ IDEA's "dependency analyzer" makes it a breeze—suggesting exclusions for smooth sailing. #SpringBoot #DependencyManagement #IntelliJIDEA
+
+
+
+
+
+## 10.Actuator
+### Understanding and Refining:
+Spring Boot Actuator facilitates application monitoring and management through exposed endpoints. The primary endpoint, "/actuator," provides essential information about application health, and additional endpoints, like "/actuator/health," offer more detailed insights. Security measures, including default endpoint disabling, ensure secure access.
+
+### What is it?
+Spring Boot Actuator is a module enabling application monitoring and management by exposing various endpoints. Essential information about application health is available at the primary endpoint, "/actuator."
+
+### Why it is used?
+It is used to monitor and manage Spring Boot applications by providing endpoints for accessing health information and other insights. Security measures, such as endpoint disabling, ensure secure access.
+
+### How it is used?
+Developers can configure additional endpoints to gain more detailed insights into the application, such as information about registered beans. By default, security measures are in place to control access to these endpoints.
+
+### Example (Technical):
+1. Accessing basic health information at the "/actuator/health" endpoint.
+2. Configuring additional endpoints for detailed insights, e.g., "/actuator/beans."
+
+### Example (Real World):
+Think of Spring Boot Actuator as a control panel for your application. The primary "/actuator" endpoint provides essential health information, and you can customize additional endpoints for specific insights.
+
+### Mnemonic:
+Imagine Spring Boot Actuator as the control panel of your application, exposing key information at "/actuator" and allowing you to configure additional insights securely.
+
+## 2. Twitter-Friendly Version:
+
+⚙️ Monitoring your Spring Boot app? Explore with Spring Boot Actuator! 🛠️ Primary endpoint "/actuator" for health info. 🔒 Securely configure additional endpoints for detailed insights. #SpringBoot #Actuator #Monitoring
