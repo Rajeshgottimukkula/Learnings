@@ -106,3 +106,38 @@ DSA
 Optimizing data processing is crucial in software development. Data structures and algorithms play a key role, like Google Maps efficiently finding the shortest path. Proper organization impacts performance significantly. #Coding #Optimization
 ```
 
+
+
+5- Types of Data structures
+
+
+
+#### Understanding and Refining:
+- Data structures are broadly categorized into primitive and non-primitive types.
+- Primitive data structures are predefined in programming languages, including integer, float, character, and boolean.
+- Non-primitive data structures are user-defined and can be linear (static or dynamic) or non-linear.
+
+#### What is it?
+- Primitive data structures are inherent in programming languages, while non-primitive structures are user-defined combinations of primitive ones.
+
+#### Why it is used?
+- Different data structures serve unique purposes based on their properties, optimizing efficiency in specific scenarios.
+
+#### How it is used?
+- Examples include arrays (static linear), linked lists, stacks, and queues (dynamic linear), as well as graph and tree data structures (non-linear).
+
+#### Example (Technical):
+- Dynamic data structures like linked lists adapt to changing memory locations.
+
+#### Example (Real World):
+- Graph data structures work well for maps, while stack structures are ideal for implementing backward and forward buttons.
+
+#### Mnemonic:
+- PNU (Primitive, Non-primitive, Usage)
+
+### 2. **Twitter-Friendly Version:**
+```markdown
+#DataStructuresExplained 🧠
+Understand the basics: Primitive (built-in) and Non-primitive (user-defined) data structures. Each type, from arrays to graphs, has unique properties making them efficient in specific scenarios. #Coding #ProgrammingBasics
+```
+
