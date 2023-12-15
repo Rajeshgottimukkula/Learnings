@@ -212,7 +212,7 @@ Picture creating a Spring Boot API like organizing a welcome booth — define th
 
 
 
-## 1. Spring boot starters project:
+## 7. Spring boot starters project:
 
 ### Understanding and Refining:
 Spring Boot Starters simplify dependency management by offering pre-packaged bundles. These bundles, like "spring-boot-starter-web," group essential dependencies for specific functionalities. Adding a starter reduces the manual effort of including individual dependencies. For instance, "spring-boot-starter-web" incorporates various dependencies related to web development.
