@@ -70,7 +70,7 @@
 
 
 
-## 1. Your Understanding:
+## 3. Dependency Injection 
 
 ### Understanding and Refining:
 Dependency Injection in Spring simplifies managing dependencies in object-oriented programming. In scenarios like a "Student" class with fields (first name, last name, email ID), manual object creation leads to explicit dependencies. For example, "Student" may depend on "Subject," causing challenges in memory management and garbage collection.
