@@ -1,7 +1,6 @@
-1- Course Introduction
 
 
-### 1. **Your Understanding:**
+### 1. **Course Introduction:**
 
 #### Understanding and Refining:
 - The course covers microservices with Spring Boot, from fundamentals to advanced topics.
@@ -31,12 +30,7 @@
 ```
 
 
-
-
-
-2- What is spring boot
-
-### 1. **Your Understanding:**
+### 2. **What is spring boot:**
 
 #### Understanding and Refining:
 - Spring Boot simplifies development over the Spring framework by handling configurations automatically.
