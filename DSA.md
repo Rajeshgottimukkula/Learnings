@@ -232,3 +232,34 @@ Big O is like assessing a car's mileage in the worst traffic conditions – esse
 ## 2. Twitter-Friendly Version:
 
 🔍 Understanding Big O, Big Omega, Big Theta! These notations decode algorithm efficiency in best, worst, and average scenarios. Big O is the go-to for industry, revealing worst-case efficiency. ⏱️ #AlgorithmEfficiency #BigONotation
+
+
+
+
+
+## 11. Big O(1):
+
+### Understanding and Refining:
+Constant Time Complexity (O(1)) ensures that the execution time remains consistent, unaffected by input size. It's ideal for operations with fixed time requirements, represented by a flat line on a time complexity graph.
+
+### What is it?
+O(1) denotes constant time complexity, indicating algorithms with consistent performance regardless of input size. Operations with a fixed number of steps fall into this category.
+
+### Why it is used?
+Used to describe algorithms with predictable and swift execution times, making them suitable for scenarios where performance remains stable irrespective of the dataset's size.
+
+### How it is used?
+Represented on a time complexity graph as a horizontal line, O(1) signifies operations with a constant number of steps. Commonly applied to non-iterative tasks or accessing elements with fixed time requirements.
+
+### Example (Technical):
+In a method multiplying a number by itself, the O(1) time complexity is evident. The method performs a single operation, showcasing constant time execution.
+
+### Example (Real World):
+Imagine picking a random card from a deck – a swift and constant-time operation, analogous to O(1). No matter how many cards are in the deck, grabbing one remains quick.
+
+### Mnemonic:
+O(1) is like picking a card from a deck – swift and constant, just like the constant time complexity! 🃏
+
+## 2. Twitter-Friendly Version:
+
+⏱️ O(1) - Constant Time Complexity: Swift execution, consistent performance! In methods like multiplying a number by itself, operations remain constant, showcasing efficiency regardless of input size. 🚀 #AlgorithmEfficiency #ConstantTimeComplexity
