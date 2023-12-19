@@ -263,3 +263,40 @@ O(1) is like picking a card from a deck – swift and constant, just like the co
 ## 2. Twitter-Friendly Version:
 
 ⏱️ O(1) - Constant Time Complexity: Swift execution, consistent performance! In methods like multiplying a number by itself, operations remain constant, showcasing efficiency regardless of input size. 🚀 #AlgorithmEfficiency #ConstantTimeComplexity
+
+
+
+
+## 12.Big O(n):
+
+### Understanding and Refining:
+Linear Time Complexity (O(n)) reveals a direct link between input size and operational growth, fundamental in algorithmic efficiency assessment.
+
+### What is it?
+O(n) denotes linear time complexity, where the execution time increases proportionally with the size of the input.
+
+### Why it is used?
+Critical for gauging algorithmic efficiency, O(n) guides the pursuit of algorithms that scale well with input size.
+
+### How it is used?
+Exemplified through a "print numbers" method, showcasing a loop iterating through numbers from 0 to n, with time complexity O(n) indicating proportional growth.
+
+### Example (Technical):
+```java
+void printNumbers(int n) {
+    for (int i = 0; i < n; i++) {
+        System.out.println(i);
+    }
+}
+```
+
+### Example (Real World):
+Imagine searching through a deck of cards; linear time complexity reflects the reality that the time taken to find a card increases proportionally with the deck's size.
+
+### Mnemonic:
+📈 Linear Time Complexity (O(n)): Efficiency aligns with input size – like navigating through cards in a deck, where more cards mean more time. #AlgorithmicEfficiency #LinearTimeComplexity
+
+
+Twitter version:
+
+📈 Linear Time Complexity (O(n)): Operations grow proportionally with input size. E.g., looping through elements, where more elements mean more operations. #AlgorithmComplexity #BigO #LinearTime
