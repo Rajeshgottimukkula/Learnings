@@ -300,3 +300,34 @@ Imagine searching through a deck of cards; linear time complexity reflects the r
 Twitter version:
 
 📈 Linear Time Complexity (O(n)): Operations grow proportionally with input size. E.g., looping through elements, where more elements mean more operations. #AlgorithmComplexity #BigO #LinearTime
+
+
+
+
+## 13. Dropping constans:
+
+### Understanding and Refining:
+In this lecture, we explored the concept of dropping constants in Big O notation. This involves eliminating constant values from asymptotic analysis, simplifying the notation and making it more manageable. We demonstrated this by adding a second loop to a method, and despite having a constant factor of 2 in the time complexity, we simplified it to O(n). Dropping constants is a common practice in asymptotic analysis to focus on the algorithm's rate of increase rather than hardware-specific factors.
+
+### What is it?
+Dropping constants in Big O involves removing constant values from the asymptotic analysis of algorithms. It simplifies the notation and allows a focus on the algorithm's efficiency as input size approaches infinity.
+
+### Why it is used?
+Constant factors, such as 2 in O(2n), can be ignored in asymptotic analysis. This practice helps in comparing algorithms without being influenced by hardware-specific factors. While faster computers may have lower constant factors, asymptotic analysis focuses on the algorithm's growth rate.
+
+### How it is used?
+Dropping constants involves simplifying time complexity notations by removing constant factors. For example, O(2n) can be simplified to O(n) to emphasize the algorithm's efficiency as input size increases.
+
+### Example (Technical):
+1. Adding a second loop to a method with time complexity O(n).
+2. Simplifying O(2n) to O(n) by dropping the constant factor.
+
+### Example (Real World):
+Think of dropping constants like comparing the speed of two cars. While one might have a slightly higher constant speed factor, it's the overall efficiency and growth rate that matter on a long journey.
+
+### Mnemonic:
+Consider dropping constants as focusing on the journey, not the speedometer readings. It's about the algorithm's performance over the long run, not the specific constant factors.
+
+## 2. Twitter-Friendly Version:
+
+🚀 In Big O notation, dropping constants simplifies analysis. O(2n) becomes O(n) by focusing on growth rates, not specific speeds. 🏎️💨 #Algorithms #BigO #AsymptoticAnalysis
