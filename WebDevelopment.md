@@ -38,8 +38,8 @@ Think of the Ultimate React Course as your passport to becoming a proficient Rea
 ## 2. Twitter-Friendly Version:
 
 🚀 Excited to welcome you to the Ultimate React Course! From basics to advanced skills, this journey covers it all. Build real-world applications and elevate your web development career. Let's dive in! #React #WebDevelopment
-```
-Replace the technical example with appropriate course content as needed.
+
+
 
 
 
@@ -115,6 +115,6 @@ const App = () => {
 };
 
 export default App;
-```
+
 
 This example covers the creation of a functional component (`App`), the use of JSX to structure the UI, the introduction of state using `useState`, and the utilization of the `useEffect` hook for fetching advice on component mount. The button click triggers the fetching of new advice and increments the click count.
