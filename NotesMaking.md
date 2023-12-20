@@ -7,10 +7,7 @@ pip3 install mkdocs mkdocs-material
 ```
  
 **Step 3: Clone the Repository**
-```bash
-git clone <repository_url>
-cd <repository_directory>
-```
+
  
 **Step 4: Make Changes**
 - Edit the markdown files (`*.md`) in the "docs" directory.
