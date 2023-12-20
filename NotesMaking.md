@@ -36,4 +36,4 @@ mkdocs gh-deploy
 ```
  
 **Step 8: Access Live Documentation**
-Visit the live documentation on GitHub Pages, typically at `https://.github.io/<repository>/`.
+Visit the live documentation on GitHub Pages.
