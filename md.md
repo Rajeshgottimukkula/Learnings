@@ -7,7 +7,7 @@
 ### **Affirmations:**
 
 1. *2024, 2025, and 2026 will be the best years of my life with discipline and success.* 🌟
-2. *In 2024, 2025, and 2026 I'll unleash my true potential by focusing on the present and staying <br/>completely away from every f*cking distraction like girls, social media, useless talks.* 💪🚫📵
+2. *In 2024, 2025, and 2026 I'll unleash my true potential by focusing on the present and staying completely away from every f*cking distraction like girls, social media, useless talks.* 💪🚫📵
 3. *I'll passionately work for every f*ckin goal of mine every f*ckin day.* 🔥🚀
 
 ### **Daily Schedule for 2024 - MAANG :**
