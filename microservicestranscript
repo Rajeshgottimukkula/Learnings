@@ -20829,6 +20829,9 @@ the microservices.
 
 
 
+
+Transcript - 
+
 Now, in this course, what we are going to learn is we are going to learn, first of all, what is
 
 darker.
@@ -20929,7 +20932,7 @@ So now let's start with the course.
 
 
 
-
+Transcript - 
 So what is Docker?
 
 So Docker is a way to package all our application and all the related libraries and whatever the things
@@ -21243,7 +21246,7 @@ using Docker.
 Now in the next video we will understand what is actually a Docker container.
 
 
-
+Transcript - 
 
 So what is Docker container as we discuss earlier?
 
@@ -21369,7 +21372,7 @@ Now in the next video, let's install Docker in our machine.
 
 
 
-
+Transcript - 
 Now to install Docker in your machine, go to your browser and search for Docker installation.
 
 Okay.
@@ -21581,6 +21584,10 @@ In the next video we are going to see what is the difference between Docker and 
 
 
 
+
+
+
+Transcript - 
 Now, what is the difference between Docker and Virtual Machine?
 
 Because both Docker and Virtual Machine provides us the virtualization to use for our applications.
@@ -21799,7 +21806,7 @@ use those commands.
 
 
 
-
+Transcript - 
 So now let's see different commands of Docker.
 
 So what we will do is we will work with one of the images.
@@ -22305,6 +22312,9 @@ Now in the next video, we will understand how to debug our Docker images and con
 
 
 
+
+
+Transcript - 
 Now let's see how we can debug our containers and images.
 
 If you see Docker images here.
@@ -22540,6 +22550,10 @@ our images and containers as well.
 
 
 
+
+
+Transcript - 
+
 Now, in this section, let's understand how to clear out everything.
 
 If you have multiple containers running or if you have multiple images and everything, if you want
@@ -22629,6 +22643,9 @@ So this is the handy command as well.
 
 
 
+
+
+Transcript - 
 Now let's talk about how to create our own images, because currently, until now, we saw that we were
 
 using the different Docker images available in the repository.
@@ -22990,6 +23007,10 @@ So you can see that how easily I was able to create the image out of my docker f
 
 
 
+
+
+Transcript - 
+
 Now let's see how we can run this.
 
 So to run this Docker image, we have to again use the Docker run command.
@@ -23051,6 +23072,10 @@ That is the config server.
 
 
 
+
+
+
+Transcript - 
 So let's go to the idea.
 
 And what I will do is I will copy this file and we will go to our config server.
@@ -23382,6 +23407,10 @@ Now let's do the same thing for our Cloud Gateway as well.
 
 
 
+
+
+
+Transcript - 
 So what I will do is I will go to my IntelliJ idea again and I will just copy this Docker file from
 
 your and I will add in my Cloud Gateway.
@@ -23625,6 +23654,11 @@ Cool, right.
 
 
 
+
+
+Transcript - 
+
+
 Now let's try to understand how to push these images to the registry.
 
 So currently you can see that.
@@ -23758,6 +23792,10 @@ available at your repository if you want anyone else to use your.
 
 
 
+
+
+
+Transcript - 
 Now let's understand about Docker compose.
 
 Currently, if you see that we have multiple images available, right?
@@ -23812,6 +23850,11 @@ And let's see how we can reduce a lot of work.
 
 
 
+
+
+
+
+Transcript - 
 
 
 So currently we have a lot of containers available, right?
@@ -24159,6 +24202,10 @@ So you can see that you have defined your entire Docker compose.
 
 
 
+
+
+Transcript - 
+
 Now let's see how we can run this.
 
 So let's go to the terminal.
@@ -24333,6 +24380,9 @@ If I do Dr. PS hyphen a, I should not get any services.
 
 
 
+
+
+Transcript - 
 
 So now let's implement the health checks.
 
@@ -24522,6 +24572,10 @@ So we will simplify all those steps in the next video.
 
 
 
+
+
+
+Transcript - 
 
 Now let's talk about Maven Git plugin, which will allow us to package our applications into our Docker
 
@@ -24868,6 +24922,9 @@ plugin.
 
 
 
+
+
+Transcript - 
 So in this Kubernetes tutorial, what are you going to say is we are going to study a complete Kubernetes
 
 architecture and all those different commands.
@@ -24893,6 +24950,11 @@ So these are all the details that we are going to cover in this tutorial.
 So it's going to be a pretty comprehensive and we are going to learn a lot of things.
 
 
+
+
+
+
+Transcript - 
 
 
 So first we need to understand what is Kubernetes.
@@ -25065,6 +25127,10 @@ Now, let's see its architecture.
 
 
 
+
+
+
+Transcript - 
 
 So if I give you the very basic components, architecture involves two things.
 
@@ -25246,6 +25312,11 @@ the worker node and the master node.
 
 
 
+
+
+
+
+Transcript - 
 
 Now let's talk about the different components available in the Kubernetes cluster.
 
@@ -25526,6 +25597,10 @@ But you should know the basics of each and everything and which component is use
 
 
 
+
+
+Transcript - 
+
 Now let's install Kubernetes in our system for the development purposes.
 
 Now, there are a lot of cloud providers that gives you the Kubernetes cluster very easily created within
@@ -25747,6 +25822,11 @@ So that's all in this video for installing Mini Cube and Cube CTL in your machin
 
 
 
+
+
+
+
+Transcript - 
 So now as we install the Cube, CTL and Mini Cube in our system, we can see different commands available
 
 in the Kubernetes.
@@ -26297,6 +26377,11 @@ So in the next video we will see what is the Kubernetes yaml configuration?
 
 
 
+
+
+
+
+Transcript - 
 
 So in this video we are going to understand the kubernetes yaml configuration to understand better about
 
@@ -26855,6 +26940,10 @@ Now, in the next video we will understand about the Kubernetes namespaces.
 
 
 
+
+
+
+Transcript - 
 Now let's talk about Kubernetes namespaces.
 
 Now, Kubernetes namespaces are just a virtual clusters inside a Kubernetes cluster.
@@ -27066,6 +27155,9 @@ So this would be a much neater way to create the different resources in the Kube
 
 
 
+
+
+Transcript - 
 So now let's talk about the different services available.
 
 So within this Kubernetes cluster, we have the different services available.
@@ -27301,6 +27393,9 @@ In the next video, we will be talking about the ingress services.
 
 
 
+
+
+Transcript - 
 Now let's talk about the ingress service in the commodities cluster.
 
 You can see that within the Kubernetes cluster, we have defined that there is one app available and
@@ -27455,6 +27550,9 @@ Now, in the next video, we'll talk about the stateful sets in the Kubernetes clu
 
 
 
+
+
+Transcript - 
 
 Now stateful set is similar to what we had seen in the deployment.
 
@@ -27668,6 +27766,9 @@ In the next video, we will see about the volumes in Kubernetes cluster.
 
 
 
+
+
+Transcript - 
 
 Whenever you are creating the applications for those applications, we use any database, and those
 
@@ -27888,6 +27989,9 @@ our entire microservices.
 
 
 
+
+
+Transcript - 
 It's a really important part of any of the application and component is also provides a way to check
 
 the health of our applications using the probes.
@@ -28037,6 +28141,10 @@ probe.
 
 
 
+
+
+Transcript - 
+
 Now you can see that all the basics are covered.
 
 We have gone through all the different resources available in the Kubernetes cluster.
@@ -28164,6 +28272,11 @@ So it is going to be really fun in this video.
 So let's start working on it.
 
 
+
+
+
+
+Transcript - 
 
 
 So now let's first prep up everything.
@@ -28489,6 +28602,10 @@ Now, we will go ahead and start creating our files.
 
 
 
+
+
+
+Transcript - 
 Now let's start with the service industry first.
 
 So for each and every component, we are going to create the different files.
@@ -28788,6 +28905,10 @@ Now let's go ahead and add the configuration for the config server.
 
 
 
+
+
+Transcript - 
+
 Now for the config server, let's go ahead and create a new file.
 
 So within this case, this folder, I'll go ahead and create a new file and I will name as config server
@@ -29009,6 +29130,9 @@ Right now let's add the configuration for the cloud gateway.
 
 
 
+
+Transcript - 
+
 Now to create the configuration for the Cloud Gateway.
 
 I will create a new file here in the case folder.
@@ -29178,6 +29302,9 @@ Now in the next video we are going to do the configuration for our order service
 
 
 
+
+
+Transcript - 
 Now for the other service.
 
 Let's create a new file here.
@@ -29354,6 +29481,9 @@ payment service and product service to connect to that MySQL.
 
 
 
+
+
+Transcript - 
 
 Now let's add the configuration for the my SQL.
 
@@ -29753,6 +29883,9 @@ So you can see that your entire configuration for my SQL is completed.
 
 
 
+Transcript - 
+
+
 Now let's use this configuration to connect our order service payment service and product service to
 
 this MySQL that also we need to do.
@@ -29807,6 +29940,9 @@ We have service registry created, we have Cloud Gateway and Config Server is als
 
 
 
+
+
+Transcript - 
 
 Now we need to connect to the Zipkin as well.
 
@@ -29904,6 +30040,9 @@ Okay?
 
 
 
+
+
+Transcript - 
 
 Now let's go ahead and add the configuration for the radius, because we need a radius as well to be
 
@@ -30063,6 +30202,10 @@ Hope you are as well.
 
 
 
+
+
+
+Transcript - 
 
 Now let's deploy each and everything and let's see.
 
@@ -30505,6 +30648,10 @@ How powerful is Kubernetes?
 
 
 
+
+
+
+Transcript - 
 Now, currently in our microservices application, you can see that we have a service registry, and
 
 this service registry will connect all the services to it and we'll be able to communicate with each
@@ -30568,6 +30715,9 @@ So let's start with the Cloud Gateway.
 
 
 
+
+
+Transcript - 
 So now you can see let's go to the Cloud Gateway.
 
 And if you go to the boundary XML file of the Cloud Gateway, if you scroll down here, you can see
@@ -30701,6 +30851,10 @@ Now, in the next video we will add another configuration related to the Kubernet
 
 
 
+
+
+
+Transcript - 
 Now let's add the configuration for the Kubernetes services so that all the different microservices
 
 can connect.
@@ -31042,6 +31196,9 @@ Everything is now with the Kubernetes service registry.
 
 
 
+
+
+Transcript - 
 Now all the configuration related to our project is done.
 
 Now we need to build everything and we need to publish to our Docker hub.
@@ -31091,6 +31248,8 @@ Now, in the next video we will do the configuration related to the Kubernetes fi
 
 
 
+
+Transcript - 
 So now in all our Kubernetes files, everything should point to the Kubernetes service registry rather
 
 than the server registry itself.
@@ -31161,6 +31320,10 @@ my service registry.
 
 
 
+
+
+
+Transcript - 
 
 What we will do is we will deploy each and everything and we will see everything is working fine or
 
@@ -31331,6 +31494,10 @@ files.
 
 
 
+
+
+Transcript - 
+
 So in this case records.
 
 What we are going to do is we are going to do a lot of things.
@@ -31409,6 +31576,10 @@ But now let's understand what is the pipeline and what we are going to build in 
 
 
 
+
+
+
+Transcript - 
 
 Now what is seized pipelines now seized refers to as continuous integration and continuous deployment,
 
@@ -31638,6 +31809,11 @@ So let's get started.
 
 
 
+
+
+
+
+Transcript - 
 
 So now for the starting, what we are going to do is we are going to convert this poly repo into mono
 
@@ -31960,6 +32136,10 @@ Now what we will do is we will work with the Google Cloud platform.
 
 
 
+
+
+Transcript - 
+
 To work with the Google Cloud platform that is a GCP.
 
 We need to have our account as well.
@@ -32079,6 +32259,10 @@ Only you can do the same thing.
 
 
 
+
+
+Transcript - 
+
 Now let's create the artifact repository, which we will use to push our Docker images.
 
 So for that reason, we need to create one artifact repository that supports Docker.
@@ -32140,6 +32324,10 @@ Now let's create the virtual machine.
 
 
 
+
+
+
+Transcript - 
 Now to create a virtual machine.
 
 What we will do is we will go to your that is a navigation menu.
@@ -32309,6 +32497,10 @@ that now we are under this Jenkins VM.
 
 
 
+
+
+Transcript - 
+
 Now, what we will do is within this Jenkins instance, we will install Jenkins.
 
 Now, to install Jenkins, what we need is we need to install Java as well.
@@ -32410,6 +32602,10 @@ Everything is installed.
 
 
 
+
+
+
+Transcript - 
 Now let's go and open Jenkins What we've installed right now, if you go here in the virtual machine
 
 that is a Jenkins VM, we will have one external IP.
@@ -32597,6 +32793,9 @@ So now we have the access to our Jenkins.
 
 
 
+
+
+Transcript - 
 Now let's set up Jenkins.
 
 So within the Jenkins, you can see that it is asking that you should get the password from here.
@@ -32902,6 +33101,9 @@ Cool, right.
 
 
 
+
+
+Transcript - 
 Now the big boy, we have to create the Kubernetes cluster itself.
 
 So we will go to the GCP here and within the GCP, we will go to the your that is the Google cloud and
@@ -33037,6 +33239,9 @@ So your enrollment variable configuration is also done for the Jenkins.
 
 
 
+
+
+Transcript - 
 Now as our Jenkins is set up and our Google commodities engine and all the repositories and registries
 
 and everything is set up, now, we can create the pipeline for all of our projects that we have.
@@ -33587,6 +33792,11 @@ So let's go ahead and create a pipeline.
 
 
 
+
+
+
+
+Transcript - 
 Now to create a pipeline we have to go to.
 
 JENKINS So let me just go to the dashboard here.
@@ -33917,6 +34127,10 @@ to our GCP using the pipeline.
 
 
 
+
+
+
+Transcript - 
 Now let's do for the Maven initial setup as well that also we will set up in the Jenkins pipeline.
 
 So what I will do is I will go to the Visual Studio code here.
@@ -34212,6 +34426,9 @@ So let's go ahead and do that.
 
 
 
+
+Transcript - 
+
 So now let's do for the Cloud Gateway.
 
 So I'll come here, file open folder, and I will open the cloud gateway here and within the Cloud Gateway,
@@ -34300,6 +34517,9 @@ Now, let's go ahead and do for the order service, product service and the paymen
 
 
 
+
+
+Transcript - 
 
 So let's go to the visual strip code.
 
@@ -34552,6 +34772,9 @@ We can run any of the pipeline and it should get deployed.
 
 
 
+
+
+Transcript - 
 Now let's deploy the other components with the belt and let's see.
 
 Everything is working fine or not.
@@ -34857,6 +35080,9 @@ we did and the Jenkins changes also we did.
 
 
 
+
+Transcript - 
+
 Now.
 
 Currently, till now, what we did is we just created a pipeline which was involving the checkout process
@@ -35087,6 +35313,10 @@ Now let's go with the other configurations.
 
 
 
+
+
+
+Transcript - 
 
 Now, as we are going to use the sonar, we have to install the sonar cube as well in our virtual machines.
 
@@ -35445,6 +35675,10 @@ So your Postgres and SQL is installed now.
 
 
 
+
+Transcript - 
+
+
 Let's start this one out and do the configuration Now.
 
 Sonar Q by default, run on Port 9000 and by default we won't be able to run the 9000 port.
@@ -35636,7 +35870,10 @@ Now, we can modify our pipeline to integrate the sonar changes.
 
 
 
-Now we have implemented the test cases in our order service.
+
+Transcript -
+we
+Now  have implemented the test cases in our order service.
 
 So let's leverage that.
 
@@ -35866,7 +36103,7 @@ for each and everything.
 
 
 
-
+Transcript -
 So in this section of this course, what we are going to do is we are going to upgrade our entire microservices
 
 application to Springboot three.
@@ -35938,6 +36175,10 @@ So let's start with the implementation of this change.
 
 
 
+
+
+
+Transcript -
 Now, as we discussed, we are going to upgrade each and every libraries and frameworks here.
 
 So what we are going to do is if we go to the application, okay, this is our application, we have
@@ -36164,6 +36405,10 @@ Now let's go ahead with the other service.
 
 
 
+
+
+
+Transcript -
 
 Now let's go ahead and upgrade the product service available.
 
@@ -36575,6 +36820,8 @@ Now let's go to the next one.
 
 
 
+
+Transcript -
 So now let's upgrade our payment service as well.
 
 So within the payment service we will upgrade the Spring Boot three and Java 17 as well.
@@ -36761,7 +37008,7 @@ Okay, Now let's go ahead and upgrade the order service.
 
 
 
-
+Transcript -
 So now let's upgrade the order service.
 
 So we'll go to the order service and we'll go to the XML file.
@@ -36860,6 +37107,9 @@ So that is also completely working fine.
 
 
 
+
+
+Transcript -
 Now let's upgrade our config server as well.
 
 So we will go to the config server.
@@ -36910,6 +37160,9 @@ So let's implement the upgrade in that as well.
 
 
 
+
+
+Transcript -
 
 So now let's go to the cloud gateway.
 
@@ -37047,6 +37300,9 @@ Now let's test the application as well.
 
 
 
+
+
+Transcript -
 
 Now to test the application, we have different APIs to test alongside that.
 
