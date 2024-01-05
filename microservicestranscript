@@ -1,3 +1,8 @@
+Topic Name - Introduction - Microservices with Spring Boot
+
+
+Transcript - 
+
 Hey, what's up, everyone?
 
 Welcome to the course of microservices with Springboard.
@@ -71,7 +76,7 @@ Let's go towards learning Springboard.
 
 
 
-
+Transcript - 
 
 Now what is Springwood?
 
@@ -175,7 +180,7 @@ in the springboard.
 
 
 
-
+Transcript - 
 Now, whenever we talk about any frameworks or particularly with spring, we talk about dependency injection.
 
 Now, what is dependency injection?
@@ -304,7 +309,7 @@ But this is a general idea what dependency injection is.
 
 
 
-
+Transcript - 
 Now, as we have gone through what is springboard and what is dependency injection, let's try to create
 
 a simple springboard project and from there we'll go towards different topics.
@@ -491,6 +496,9 @@ So let's do that.
 
 
 
+
+Transcript - 
+
 So you can see that this is a project that I downloaded.
 
 Now, let's unzip this.
@@ -609,7 +617,7 @@ you should be able to run your project.
 
 
 
-
+Transcript - 
 Now as you have configured your spring board application and started your spring application, let's
 
 create a basic controller and solve that request.
@@ -786,6 +794,7 @@ one of the APIs and vice versa.
 
 
 
+Transcript - 
 
 Now you can see that whatever we did was right.
 
@@ -900,6 +909,9 @@ as well.
 
 
 
+
+
+Transcript - 
 
 Now let's understand how Springboard works.
 
@@ -1217,6 +1229,8 @@ So there is no magic at all.
 
 
 
+
+Transcript - 
 Now let's talk about the embedded servers in the Springboard application.
 
 Now, ideally, whenever you were creating the Java application or the spring application, what you
@@ -1503,6 +1517,8 @@ So this way you can use this dependency analyzer plugin to handle your dependenc
 
 
 
+Transcript - 
+
 Now let's talk about the Springwood actuators.
 
 Springwood actuators are nothing but a tool that allows us to monitor our Springwood application.
@@ -1615,7 +1631,7 @@ It's fairly simple.
 
 
 
-
+Transcript - 
 Now let's talk about spring totals.
 
 We, as you have seen that we have gone through a lot of things available.
@@ -1691,6 +1707,10 @@ restart your applications.
 
 
 
+
+
+Transcript - 
+
 Now, in this section, we are going to learn about the web services.
 
 We are going to learn what is Web services, how Web services work and what is RESTful Web services,
@@ -1708,7 +1728,7 @@ So let's check this out.
 
 
 
-
+Transcript - 
 Now, what is a web service?
 
 If I give you an example, like any social media application, Right.
@@ -1818,6 +1838,8 @@ We will be mainly concentrating on the rest Web services.
 
 
 
+
+Transcript - 
 
 Now let's talk about how Web services work.
 
@@ -1974,6 +1996,9 @@ services will work?
 
 
 
+
+
+Transcript - 
 Now let's talk about the RESTful Web services.
 
 RESTful Web services means representational state transfer.
@@ -2132,6 +2157,11 @@ If you didn't know then if going through this would help.
 
 
 
+
+
+Transcript - 
+
+
 Now let's go ahead and create a RESTful Web services.
 
 In the earlier videos we had already created when RESTful Web Services.
@@ -2192,7 +2222,7 @@ That means this is going to handle all our RESTful web services and this is my A
 
 
 
-
+Transcript - 
 Now let's create a new end point where we can handle the objects.
 
 So currently you can see that we had only worked with a string.
@@ -2433,6 +2463,10 @@ You can see that it is working now.
 
 
 
+
+
+
+Transcript - 
 Now let's define path variables.
 
 Now what is path variable?
@@ -2593,6 +2627,10 @@ Now, in the next video we will see request parameters.
 
 
 
+
+
+
+Transcript - 
 
 Now, in the previous video we saw about path variables and how to define path variables.
 
@@ -2808,6 +2846,10 @@ I will see you in the next chapter.
 
 
 
+
+
+
+Transcript - 
 Now, as we have understood the basics, let's create a credit application where we will use the employer
 
 as the object, and on that employee will do some operation.
@@ -3342,6 +3384,10 @@ Now let's go ahead and implement the get request.
 
 
 
+
+
+Transcript - 
+
 So now what I want is in the get request, I want to get all the data which are already saved.
 
 So what we will do is if you go to the service layer.
@@ -3474,6 +3520,9 @@ You can see that we have just implemented the post mapping and get mapping for a
 
 
 
+
+
+Transcript - 
 Now let's implement one more method where we will try to get a particular employee based on the ID that
 
 is provided.
@@ -3708,6 +3757,11 @@ So in the next video, we will handle this.
 
 
 
+
+
+
+
+Transcript - 
 
 So now in this session, let's handle the exception that we are getting when there is no records available.
 
@@ -4082,6 +4136,10 @@ now you can see that with this it's easily understandable what is going with our
 
 
 
+
+
+
+Transcript - 
 Now, what if there are generic exceptions?
 
 So we need to handle the generic exceptions as well.
@@ -4187,6 +4245,9 @@ So this is how you would be implementing exception ending in your spring boot wi
 
 
 
+
+
+Transcript - 
 
 Now let's implement the another API for deleting the data.
 
@@ -4331,6 +4392,10 @@ So you can see that we are easily able to delete the data using the delete handl
 
 
 
+
+
+
+Transcript - 
 
 Now let's talk about content negotiation.
 
@@ -4655,7 +4720,7 @@ Then I should be able to get the data in the JSON format itself so you can see t
 able to add the content negotiation in our application.
 
 
-
+Transcript - 
 
 Now let's talk about data filtering.
 
@@ -4746,7 +4811,7 @@ So you can see that how we implemented the data filtering for the static propert
 
 
 
-
+Transcript - 
 Now let's talk about EPA versioning.
 
 API versioning is very important when we are developing our APIs.
@@ -4970,6 +5035,10 @@ APIs.
 
 
 
+
+
+Transcript - 
+
 Now let's understand what is GPU?
 
 GPU stands for Java Persistence API.
@@ -5080,6 +5149,9 @@ So that's all about the basics of JPA, but let's go and implement JPA in our pro
 
 
 
+
+
+Transcript - 
 
 Whenever we are working with GPA, what we need is we need an entity.
 
@@ -5480,6 +5552,12 @@ And now we can go ahead and use these things.
 
 
 
+
+
+
+
+Transcript - 
+
 Now let's go to our employee V2 controller itself, because in the employee controller with the version
 
 one we had already implemented over all the functionalities where we are storing all our data in our
@@ -5789,6 +5867,11 @@ Now let's implement the method to get all the data.
 
 
 
+
+
+
+Transcript - 
+
 Now, what I will do is I will go to the employee controller here and there is a gate method available.
 
 Right.
@@ -5952,6 +6035,10 @@ So this is how you will be implementing your GET APIs.
 
 
 
+
+
+
+Transcript - 
 Now let's go ahead and implement our delete APIs.
 
 So if you go to the IntelliJ idea, this is your DELETE employee by ID method.
@@ -6031,7 +6118,7 @@ And you can see that we have learned a lot of different things as well throughou
 
 
 
-
+Transcript - 
 Now let's implement the my SQL database in our application.
 
 Currently, you can see that we have implemented the actual database that is in memory, but now let's
@@ -6219,7 +6306,7 @@ Now let's go towards the microservices.
 
 
 
-
+Transcript - 
 So now, as we learn about the spring booth and spring GPA, let's see what is microservices now before
 
 directly jumping towards the microservices and see what is the fuss about the microservices.
@@ -6703,6 +6790,9 @@ We will start building our microservices.
 
 
 
+
+Transcript - 
+
 So now, as we have understood what is microservices and what are the advantages and disadvantages of
 
 microservices and how we can create the repos and everything.
@@ -7018,7 +7108,7 @@ And then from that on we will start implementing our services.
 
 
 
-
+Transcript - 
 Now let's understand what is service registry?
 
 Now, ideally, if you consider one of these simple example, we have one other service and this other
@@ -7206,7 +7296,7 @@ Now let's go ahead and create the product services and let's build our applicati
 
 
 
-
+Transcript - 
 So now to create the product services, as we have seen in the earlier examples, we are going to use
 
 the spring visualizer to create our services.
@@ -7646,6 +7736,9 @@ Now let's go ahead and implement our API.
 
 
 
+
+Transcript - 
+
 So what I'm going to do is I'm going to go to my controller layer and we are going to create the API.
 
 Now, as we already know that our controller layer needs the object of our service layer, because from
@@ -7912,6 +8005,9 @@ So one microservices created now.
 
 
 
+
+
+Transcript - and 
 
 Now let's create the other API to get the data, to get all the products back.
 
@@ -8184,6 +8280,9 @@ Let's try to handle the exceptions in our application.
 
 
 
+
+
+Transcript - 
 And now I'm in.
 
 My intel is the idea.
@@ -8435,6 +8534,10 @@ Let's implement the service registry.
 
 
 
+
+Transcript - 
+
+
 In this session.
 
 What we are going to do is we are going to create a service registry application using the spring initialized
@@ -8612,6 +8715,10 @@ So in that product service we will implement the service client.
 
 
 
+
+
+
+Transcript - 
 Now to add the service client.
 
 What we have to do is we have to add the dependency.
@@ -8761,6 +8868,9 @@ to the services.
 
 
 
+
+
+Transcript - 
 
 Now let's go ahead and create the another service that is the other service from which we can place
 
@@ -9096,6 +9206,9 @@ So you can see that my repository is also created.
 
 
 
+
+
+Transcript - 
 
 Now, what I want to do is I want to create the API to place an order.
 
@@ -9587,6 +9700,9 @@ So you can see that my order is created now.
 
 
 
+
+
+Transcript - 
 Now, what we will do is, as we've added the service district client in the product service, we are
 
 going to add the same configuration in the order service itself.
@@ -9642,6 +9758,10 @@ So now let's see how to remove this redundant configuration in our microservices
 
 
 
+
+
+
+Transcript - 
 Now let's understand what we did.
 
 Till now, we have one service discovery, right?
@@ -9755,6 +9875,9 @@ So let's go ahead and build that.
 
 
 
+
+
+Transcript - 
 So to create a config server, what we will do is we'll go to the spring initialized again, right?
 
 And we will remove all this dependencies because we don't need all this dependencies.
@@ -9960,7 +10083,7 @@ So let's go ahead and add those configurations as well.
 
 
 
-
+Transcript - 
 For that.
 
 What we will do is we will go to the browser and we need to add one dependency.
@@ -10076,6 +10199,8 @@ So this is how you are going to start all the common configuration at one piece.
 
 
 
+
+Transcript - 
 Now let's implement this reduced quantity API in the product service and once that is done, we can
 
 call that API from here.
@@ -10241,6 +10366,9 @@ So now let's go ahead and do that.
 
 
 
+
+Transcript - 
+
 Now before implementing this in our order service API, let's first test this out so we will just restart
 
 the server here.
@@ -10344,6 +10472,10 @@ product services to block the product to reduce the quantity.
 
 
 
+
+
+
+Transcript - 
 So now how we are going to call the product services.
 
 That is the question that we will get in mind, right?
@@ -10487,6 +10619,9 @@ Okay, So let's do that.
 
 
 
+
+
+Transcript - 
 
 So within a year we are going to call the product service for the block products to reduce the quantity
 
@@ -10754,6 +10889,9 @@ using the fin client.
 
 
 
+
+Transcript - 
+
 Now, what about the different errors?
 
 Right.
@@ -11010,6 +11148,9 @@ So let's go ahead and implement that as well.
 
 
 
+
+
+Transcript - 
 So to implement the exception handling in the order service, let's go to the IntelliJ idea.
 
 And what we will do is we are going to cheat something.
@@ -11125,7 +11266,7 @@ So whenever you have multiple services this way you are going to handle all your
 
 
 
-
+Transcript - 
 So you can see that after handling all this exception handlings and everything.
 
 If you go and see the loggers, right, so you can see within the order service, you have this kind
@@ -11340,6 +11481,9 @@ So let's go ahead and do that.
 
 
 
+Transcript - 
+
+
 Now, as we need to add the dependencies of Zipkin and Sloth, the best way that we always go is using
 
 the spring neutralizer.
@@ -11519,6 +11663,9 @@ So this is how you are going to implement distributed log tracing in your micros
 
 
 
+
+
+Transcript - 
 Now if you check this place.
 
 Order service.
@@ -11836,6 +11983,7 @@ Let's go to the payment controller.
 
 
 
+Transcript - 
 So within this payment controller, we need to make the API and to make the API, we also need the object
 
 of the business layer that is the service.
@@ -12069,6 +12217,10 @@ when we are doing the purchase order API.
 
 
 
+
+
+
+Transcript - 
 
 Now let's call it do payment API of payment service from the order service to complete our payment for
 
@@ -12434,6 +12586,9 @@ So let's go ahead and implement that.
 
 
 
+
+
+Transcript - 
 
 So let's go to the order service.
 
@@ -13160,6 +13315,9 @@ as well.
 
 
 
+
+Transcript - 
+
 Now, what we have understood is we have few of the services, right?
 
 So we had the order service, right?
@@ -13265,6 +13423,9 @@ So let's implement this.
 
 
 
+
+
+Transcript - 
 So now to create the API gateway, we will again use the Sprint Cloud components.
 
 Cloud Gateway.
@@ -13538,6 +13699,9 @@ So this is how you will implement the API gateway in your microservices architec
 
 
 
+
+
+Transcript - 
 Now let's implement circuit breaker in our application.
 
 Before that, let's see what is circuit breaker.
@@ -13907,7 +14071,7 @@ We can have a more discussion on that as well.
 
 
 
-
+Transcript - 
 So what we will do is we go to our daily idea and we will go to the Cloud Gateway, because in the Cloud
 
 Gateway we are going to implement the circuit breaker.
@@ -14265,7 +14429,7 @@ Cool, right.
 
 
 
-
+Transcript - 
 Now let's implement this circuit breaker in the order service as well.
 
 So I'll go to the order service and if you go to the permit XML file.
@@ -14418,7 +14582,7 @@ And from that ten size, it will try to calculate what is happening for that circ
 
 
 
-
+Transcript - 
 Now, as we have implemented the circuit breaker in our API gateway, let's implement the rate limiter
 
 as well, because rate limiter is also very important thing that we need to implement in our microservices,
@@ -14721,6 +14885,8 @@ So this way you can implement rate limited to prevent the DDoS attack in your mi
 
 
 
+Transcript - 
+
 Let's talk about security.
 
 So now in this project, we are going to implement the spring security with OCTA or two.
@@ -15019,6 +15185,8 @@ So now, without wasting any time, let's go ahead and implement our spring securi
 
 
 
+
+Transcript - 
 Now as we are going to use the octet as our authentication provider, we have to register our application
 
 in Okta.
@@ -15355,6 +15523,7 @@ So now let's go ahead and do that.
 
 
 
+Transcript - 
 So what I will do, I will go to the IntelliJ Idea, and within our Cloud Gateway we will add the configuration.
 
 Now, before adding any configuration, we need to add the dependencies as well for the Spring security
@@ -15596,6 +15765,9 @@ So let's do that.
 
 
 
+
+
+Transcript - 
 So now let's create a rest API endpoint to allow the authentication for a user.
 
 So when we are going to hit that particular URL that we're going to create that is slash, authenticate,
@@ -15834,6 +16006,10 @@ APIs.
 
 
 
+
+
+
+Transcript - 
 Now we have to implement in the order service, product service and the payment service as well so we
 
 can leverage this token information.
@@ -16119,6 +16295,11 @@ So with that, we will be allowed to pass on the information, whatever the token 
 So let's go ahead and override those configurations as well.
 
 
+
+
+
+
+Transcript - 
 
 For that reason, we are going to add the interceptors and and those interceptors will handle all those
 
@@ -16499,6 +16680,10 @@ that is going to be your product service and the payment service.
 
 
 
+
+
+Transcript - 
+
 Now with the payment service and product service as well.
 
 We need to implement this.
@@ -16634,7 +16819,7 @@ Now let's go and add in the product service.
 
 
 
-
+Transcript - 
 So let's go to the product service.
 
 This is my product service now.
@@ -16830,7 +17015,7 @@ Okay.
 
 
 
-
+Transcript - 
 Let me just restart the application.
 
 I will just restart cloud orders.
@@ -16941,6 +17126,10 @@ So similarly you will be easily able to do it as well in your projects.
 
 
 
+
+
+
+Transcript - 
 
 Now let's implement unit testing in our project.
 
@@ -17091,6 +17280,10 @@ So without wasting any time, let's go ahead and implement the order service test
 
 
 
+
+
+
+Transcript - 
 So now you can see that we are in our in Algeria and we are in our order service project.
 
 So we are going to implement in the order service.
@@ -17250,6 +17443,10 @@ So I just explain you like what all the things that we have added and why we hav
 
 
 
+
+
+
+Transcript - 
 Now, once the configuration is done, we can add the test case files for our service layer.
 
 So what I will do is I will go to the order service impl file.
@@ -17567,6 +17764,9 @@ So let's try to do that as well.
 
 
 
+
+Transcript - 
+
 Well, guess what we are going to do here is if we go to the others, for example, the first thing
 
 when we call this method is this log info.
@@ -17826,6 +18026,10 @@ Now we can go ahead and do the verification and assertion.
 
 
 
+
+
+
+Transcript - 
 So in the verification, what I can do is I can do Marketo verify.
 
 This is also from marketers.
@@ -17989,6 +18193,11 @@ So let me just go back and uncomment it out and your test cases is done.
 
 
 
+
+
+
+
+Transcript - 
 Now let's implement this failure scenario for the getting the order.
 
 So let's go back.
@@ -18161,6 +18370,9 @@ So everything is successful now.
 
 
 
+
+
+Transcript - 
 Now let's go ahead and implement the place, order API as well.
 
 Let's implement the test for place Order API.
@@ -18495,6 +18707,9 @@ Now let's go ahead and implement the failure scenario also for this.
 
 
 
+
+Transcript - 
+
 So let's define failure scenario wide test of an.
 
 Place.
@@ -18588,6 +18803,9 @@ So this way you can see that we just completed the all the test scenarios for ou
 
 
 
+
+Transcript - 
+
 Now, if you want to check the coverage, like how much code that we have covered that also you can
 
 do.
@@ -18633,6 +18851,10 @@ Now, let's go ahead and implement the integration test for your controller.
 
 
 
+
+
+
+Transcript - 
 Now for the controller layer, we are going to implement an integration test, which means that whatever
 
 the API is that we have created, we are going to test all those APIs and we are going to mock those
@@ -18726,6 +18948,8 @@ So let's go ahead and implement that.
 
 
 
+
+Transcript - 
 So as we did earlier, we need the class test class for our order controller.
 
 So what we will do is we will go to the order controller here and we will do right click and generate
@@ -18941,6 +19165,10 @@ this our order controller context in our test environment OC.
 
 
 
+
+
+Transcript - 
+
 Now we will need some of the references that we were using in the order controller.
 
 So if you go to the order controller, yes, some of the things that we are using is the order service,
@@ -19072,6 +19300,9 @@ write our test cases that things that we have defined Now we can go ahead and wr
 
 
 
+
+
+Transcript - 
 Now let's write a test case to place the order when there is a successful scenario.
 
 So we'll write it as a case that will place the order.
@@ -19515,6 +19746,9 @@ So let's implement this now.
 
 
 
+
+
+Transcript - 
 
 So now first we are going to do the place order and whenever we want to place order, what we have to
 
@@ -19985,6 +20219,9 @@ Now let's implement the other test case.
 
 
 
+
+
+Transcript - 
 Now let's implement the test case where we are trying to place the order, but with the different authority.
 
 Currently you can see that the payment can only be done by the customer.
@@ -20061,6 +20298,10 @@ When we are passing the wrong access type, that also is successful.
 
 
 
+
+
+
+Transcript - 
 
 Now let's add the another scenario where we will implement the GATT order.
 
@@ -20458,7 +20699,7 @@ If you're not able to do, then we will discuss in the discussion forum.
 
 
 
-
+Transcript - 
 Now let's add one more test cases where we will add the test cases where we don't have the product itself.
 
 So let's go to the order controller test.
