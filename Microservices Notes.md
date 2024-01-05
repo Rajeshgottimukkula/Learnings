@@ -167,3 +167,102 @@ Configuration classes in Spring are another way to configure and manage beans, b
 3. **Usage:** They are widely used for configuration settings that you want to be easily changeable without altering your code.
 
 In summary, while both configuration classes and property files contribute to configuring your Spring application, configuration classes are more powerful and suited for complex bean creation logic, while property files are great for externalizing and easily changing configuration values.
+
+
+
+# Dependency Injection
+
+## Main Concepts:
+- **Dependency Injection (DI):** A design pattern in which a class receives its dependencies from an external source rather than creating them itself.
+- **Inversion of Control (IoC):** A programming principle where the control flow is inverted, allowing the framework to take control of the program's flow.
+
+## Definitions:
+- **Bean:** In Spring, a bean is an object that is instantiated, assembled, and otherwise managed by a Spring IoC container.
+- **Spring Framework:** An open-source framework for building Java-based enterprise applications.
+
+## Examples:
+```java
+// Without Dependency Injection
+public class Student {
+    Subject subject = new Subject(); // Manual object creation
+    
+    // Other fields and methods
+}
+
+// With Dependency Injection
+public class Student {
+    Subject subject; // Dependency injected
+    
+    // Setter or constructor for injecting Subject
+}
+```
+
+## Key Steps/Processes:
+1. Define classes as beans in the Spring framework.
+2. Let Spring IoC container handle the instantiation and management of beans.
+3. Use dependency injection to provide required dependencies to classes.
+
+## Connections to Other Concepts:
+- **Inversion of Control (IoC):** Dependency Injection is a key aspect of IoC.
+
+## Personal Insights:
+Dependency Injection simplifies object creation and promotes a cleaner code structure by letting the framework manage dependencies.
+
+## Practical Applications:
+1. Building modular and maintainable code.
+2. Enhancing testability by allowing easy substitution of dependencies.
+
+## Review Questions:
+1. What is Dependency Injection?
+2. How does Inversion of Control relate to Dependency Injection?
+3. Explain the concept of a "Bean" in the context of the Spring framework.
+
+## Summary:
+Dependency Injection is a design pattern where dependencies of a class are provided by an external source, typically handled by the Spring framework in Java applications. This promotes a cleaner code structure and enhances modularity.
+
+## Additional Resources:
+- [Spring Framework Documentation](https://spring.io/projects/spring-framework)
+
+Imagine you're making a sandwich. Normally, you gather all the ingredients yourself. Dependency Injection is like having a magical sandwich maker who knows exactly what you need and gives you the ready-made sandwich. In coding, it means letting a framework (like Spring in Java) provide the necessary parts (dependencies) for your program, making your life as a developer much easier! 🥪✨
+
+
+Let's consider a simple example with a `Student` class and a `Subject` class. In traditional programming, you might do something like this:
+
+```java
+// Without Dependency Injection
+public class Student {
+    private Subject subject;
+
+    public Student() {
+        this.subject = new Subject();  // Creating Subject object manually
+    }
+}
+```
+
+Now, with Spring's dependency injection, you declare your dependency like this:
+
+```java
+// With Spring Dependency Injection
+public class Student {
+    private Subject subject;
+
+    // Spring automatically injects the Subject object
+    public Student(Subject subject) {
+        this.subject = subject;
+    }
+}
+```
+
+In the second example, you're saying, "Hey Spring, I need a `Subject` here, please provide one." Spring, during the application context initialization, sees this requirement and injects the appropriate `Subject` object.
+
+Here's a breakdown of the benefits:
+
+1. **Reduced Coupling:** The `Student` class doesn't need to worry about how to create a `Subject`. This reduces the coupling between classes.
+
+2. **Flexibility:** You can easily swap different implementations of `Subject` without changing the `Student` class, making your code more flexible.
+
+3. **Easier Testing:** During testing, you can inject mock objects or different implementations of `Subject` to isolate the testing of the `Student` class.
+
+This is a simplified example, but in larger applications with multiple dependencies, the advantages of dependency injection become even more apparent.
+
+
